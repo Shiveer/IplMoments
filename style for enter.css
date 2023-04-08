@@ -1,0 +1,23 @@
+body {
+    height: auto;
+  }
+  
+  body {
+   background-image: url(https://wallpapercave.com/wp/wp6194569.jpg);
+    margin: 0;
+    
+    font-family: Rocher, sans-Rocher;
+    font-size: 16px;
+  }
+
+  
+  header {
+    
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #team-selector {
+    text-shadow: red;
+    text-align: center;
+  }
